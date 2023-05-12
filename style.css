@@ -1,0 +1,308 @@
+*{
+    padding:0;   
+    margin:0 ;
+   }
+   
+   .navbar-brand{
+       width:auto;
+       height: auto;
+       padding:5px 0px 5px ;
+   }
+   .navbar{
+     color: white;
+      
+   }
+   .nav-item{
+        list-style: none;
+       padding:15px ;
+      
+       
+       
+   }
+   .button{
+    
+    border-radius: 6px;
+    background-color: #02A2C1;
+    color: white;
+    border: #02A2C1 solid 2px;
+    
+    
+   }
+   .breadcrumb a{
+     
+   text-decoration: none;
+    color: white;
+   
+    
+    
+
+   }
+   .banner,.smart-banner{
+    background-image:url(images/azure.png ) ;  
+    background-size:100%;
+     height:450px ;
+    background-position: cover;
+    background-repeat: no-repeat;
+    font-weight: 500;
+    padding: 100px 100px;
+    color: #fff; 
+      
+   }
+
+    span{
+    color: #02A2C1;
+   }
+    .easy{
+    font-weight:normal;
+    }
+   .data-migration{
+     background-color: #02A2C1;
+        
+        
+    }
+    .data-img{
+        width: 55%;
+        
+    }
+    .data-platform{
+        position: relative;
+    
+    }
+    .top-img{
+       position:absolute ; 
+       top:0%;
+       left: 0% ;
+       width:50px;
+       height:50px ;
+        }
+    .bottom-img{
+      position: absolute;
+      bottom: 0%; 
+      right:0% ;
+      width:50px;
+      height:50px ; 
+    }
+    .defect-img{
+        width:60% ;
+    }
+
+    .eleminating-defects{
+        background-color: #282727;
+    }
+    .defects{
+      position: relative;  
+    }
+
+.eleminating-defects h1{
+    
+    
+    padding-top:45px;
+    font-weight: bold; 
+    
+}
+.eleminating-defects p{
+
+    font-weight: normal;
+    
+    padding: 0.5rem;
+
+}
+
+
+.bugzilla p{
+    font-family: poppins;
+    
+}
+.bugzilla li{
+    list-style: none;
+    list-style-image:url(images/Group\ 366.png) ;
+    padding: 0.5rem;
+    
+
+}
+.migratetool{
+    background-color: #02A2C1;
+}
+.bugzillamigrates{
+    background-color: #02A2C1;
+}
+.content{
+    background-color: #02A2C1;
+    height:100%;
+    
+    
+   
+    
+} 
+.content p{
+    color: white;
+    padding:1rem ;
+    
+
+    
+}
+
+.content li{
+  list-style: none;
+  list-style-image: url(images/Group\ 464.png); 
+  color: white; 
+  padding:0.5rem ;
+}
+.content1{
+    background-color: #282727;
+    height: 100%;
+    
+    
+    
+
+    
+
+}
+.content1 li{
+    list-style: none;
+    list-style-image: url(images/Group\ 464.png); 
+    color: white; 
+    padding: 0.5rem;
+
+}
+.content1 p{
+    color: white;
+    padding:1rem ;
+    
+}
+
+.export{
+background-color: #282727;
+}
+.export p{
+    color: white;
+    padding:4rem ;
+}
+.exploercanarys li,.limit li,.smart  li{
+    list-style: none;
+    list-style-image:url(images/Group\ 366.png) ;
+    padding:0.5rem ;
+  
+
+}
+
+.exploercanarys h1{
+    font-weight: bold;
+    padding:0.5rem ;
+}
+.exploercanarys img{
+    width: 80%;
+    
+        
+}
+.benefits li{
+    list-style: none;
+    list-style-image:url(images/Group\ 366.png) ;
+    padding:0.5rem ;
+    
+}
+.benefits h1{
+    padding:1rem ;
+}
+.services{
+    background-color: #2B2A29;
+}
+.services h3{
+    color: white;
+}
+.services a{
+    text-decoration: none;
+    color: white;
+    list-style: none;
+}
+
+.services li{
+    list-style: none;
+}
+.button-name{
+    border-radius: 6px;
+    background-color: #02A2C1;
+    color: white;
+    border: #02A2C1 solid 2px;
+    
+    
+    
+
+}
+/* AZDS page styling */
+
+.azds-banner{
+background-image:url(images/banner.jpg);
+background-size:100%;
+width: 180px 150px;
+height:450px ;
+
+background-position: cover;
+
+}
+
+.azds-banner .heading{
+    width: 50%;
+}
+
+
+
+
+
+.button-azds{
+    border-radius: 3px;
+    background-color: #02A2C1;
+    color: white;
+    border: #02A2C1 solid 2px;
+   
+
+}
+.power{
+    background-color: #02A2C1;
+}
+.limit{
+    background-color: #F0F0F0;
+}
+/* smart page styling */
+.smart-banner{
+    background-image:url(images/smartboard\ banner.jpg);
+background-size:100%;
+width: 180px 150px;
+height:460px ;
+
+background-position: cover;
+
+
+}
+.smart-banner .heading{
+width:50% ;
+}
+.smart{
+    background-color: #E8E8E8;
+}
+.what-can li{
+    list-style: none;
+    list-style-image:url(images/list\ arrow.png) ;
+    padding:0.5rem ;
+
+}
+.exportise{
+    background-color: #02A2C1;
+}
+.card {
+    width:100% ;
+    height: 100%;
+}
+.exportise h2{
+border-bottom:  solid 5px  white ;
+line-height: 70px;
+display:inline-block;
+
+
+
+    
+  }
+ 
+  
+  
+
